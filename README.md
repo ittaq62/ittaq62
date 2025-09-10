@@ -31,7 +31,7 @@ Sur ce profil, vous trouverez aussi bien des projets web (front-end & back-end),
 
 ## 📫 Contact
 
-- ✉️ [quentin.douilly@etu.univ-littoral.fr](mailto:quentin.douilly@etu.univ-littoral.fr)
+- ✉️ [quentindouilly1@gmail.com](mailto:quentindouilly1@gmail.com)
 
 ---
 
