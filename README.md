@@ -24,11 +24,6 @@ Sur ce profil, vous trouverez aussi bien des projets web (front-end & back-end),
 
 - **[Image-processing](https://github.com/ittaq62/Image-processing)** : Application Python pour rechercher, télécharger et visualiser des images astronomiques (astroquery, tkinter, FITS).
 
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://ton-projet.vercel.app/api?username=ittaq62&show_icons=true&theme=default)
-![Top Langs](https://ton-projet.vercel.app/api/top-langs/?username=ittaq62&layout=compact)
-
 
 ## 📫 Contact
 
