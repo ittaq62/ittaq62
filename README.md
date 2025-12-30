@@ -26,8 +26,9 @@ Sur ce profil, vous trouverez aussi bien des projets web (front-end & back-end),
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ittaq62&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ittaq62&layout=compact)
+![GitHub Stats](https://ton-projet.vercel.app/api?username=ittaq62&show_icons=true&theme=default)
+![Top Langs](https://ton-projet.vercel.app/api/top-langs/?username=ittaq62&layout=compact)
+
 
 ## 📫 Contact
 
