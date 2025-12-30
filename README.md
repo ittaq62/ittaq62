@@ -20,11 +20,6 @@ Sur ce profil, vous trouverez aussi bien des projets web (front-end & back-end),
 **Outils & DevOps :**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Projets récents
-
-- **[Image-processing](https://github.com/ittaq62/Image-processing)** : Application Python pour rechercher, télécharger et visualiser des images astronomiques (astroquery, tkinter, FITS).
-
-
 ## 📫 Contact
 
 - ✉️ [quentindouilly1@gmail.com](mailto:quentindouilly1@gmail.com)
